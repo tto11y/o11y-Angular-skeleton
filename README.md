@@ -51,7 +51,7 @@ default -> 22 (-> v22.14.0)
 ### install Angular
 
 ```shell
-    npm install -g @angular/cli@19.2.4
+  npm install -g @angular/cli@19.2.4
 ```
 
 - this command installs the Angular CLI globally into the /bin directory under your configured Node version directory
