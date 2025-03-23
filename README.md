@@ -4,10 +4,10 @@ this repo contains a skeleton Angular project that leverages Nx
 
 ----
 
-## setup
+# Setup
 
 on macOS 
-### install nvm
+### Install nvm
 ```shell
   brew install nvm
 ```
@@ -20,7 +20,7 @@ v22.14.0
 ```   
 
 
-### install and setup NodeJS
+### Install and setup NodeJS
 ```shell
   nvm install 22
 ```
@@ -37,7 +37,7 @@ Checksums matched!
 Now using node v22.14.0 (npm v10.9.2)
 ```
    
-#### set default NodeJS version
+#### Set default NodeJS version
 
 ```shell
   nvm alias default 22
@@ -48,7 +48,7 @@ foo@bar:~$ nvm alias default 22
 default -> 22 (-> v22.14.0)
 ```
 
-### install Angular
+### Install Angular
 
 ```shell
   npm install -g @angular/cli@19.2.4
