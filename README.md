@@ -1,4 +1,4 @@
-# o11y-self-service-frontend
+# O11y Angular skeleton
 
 this repo contains a skeleton Angular project that leverages Nx
 
